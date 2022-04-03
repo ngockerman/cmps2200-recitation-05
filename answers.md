@@ -1,15 +1,13 @@
-# CMPS 2200 Assignment 4
+# CMPS 2200 Reciation 6
 ## Answers
 
 **Name:**_________________________
 
 
-Place all written answers from `assignment-04.md` here for easier grading.
+Place all written answers from `recitation-06.md` here for easier grading.
 
 
 
-
-- **1a.**
 
 
 
@@ -19,19 +17,4 @@ Place all written answers from `assignment-04.md` here for easier grading.
 
 
 
-- **2a.**
-
-
-
-
-- **2b.**
-
-
-
-
-- **3b.**
-
-
-
-
-- **3c.**
+- **1c.**
