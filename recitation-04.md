@@ -1,4 +1,4 @@
-# CMPS 2200 Recitation 5
+# CMPS 2200 Recitation 4
 
 In this recitation, we'll look at randomness in computation.
 
