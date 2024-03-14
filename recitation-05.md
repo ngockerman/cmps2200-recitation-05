@@ -31,7 +31,7 @@ selecting a random pivot.
 
 **1b)**
 
-Compare running times using `compare-qsort` between variants of
+Compare running times using `compare-sort` between variants of
 Quicksort and the
 provided implementation of selection sort (`ssort`). Perform two
 different comparisons: a comparison between sorting methods using
