@@ -1,7 +1,8 @@
 import random, time
 import tabulate
 
-def selection_sort(L):
+def ssort(L):
+    ### selection sort
     if (len(L) == 1):
         return(L)
     else:
