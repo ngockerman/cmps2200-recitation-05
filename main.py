@@ -3,7 +3,7 @@ import tabulate
 
 def ssort(L):
     ### selection sort
-    if (len(L) == 1):
+    if len(L) == 1:
         return(L)
     else:
         m = L.index(min(L))
@@ -15,7 +15,7 @@ def ssort(L):
 def qsort(a, pivot_fn):
     ## TO DO
     len = len(a) # initializes variable to hold length of list
-    if n <= 1:
+    if len <= 1:
         return a[:] #base case if list already sorted because short
     piv = pivot_fn(a) # initializes variable to hold pivot point
     # divides list around the pivot value
